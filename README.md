@@ -20,14 +20,14 @@
 
 > **This software its compatible with all Operative System with Web Browser+**
 
-### **Descarga**
+### **Download**
 You can download the last WAR version to deploy in Apache2: [Releases Page](https://github.com/rudahee/MyBookListFrontend/releases). 
 
 You only need download the last version stable: `MyBookList-v.1.0-STABLE.war`.
 
 _If you don't want to go to the releases page every time, there is a shortcut on the right with the latest version available_
 
-### **Ejecucion**
+### **Executing**
 
 To run the application you must deploy on a Apache2 or similar server, for this you can have more information about it in the documentation tutorial.
 
